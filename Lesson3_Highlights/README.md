@@ -4,15 +4,15 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+February 3, 2017
 
 ## Student Name:  
-(First and Last Name)
+Calvin Dominguez-Lay
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment we learn how to use version control and how to set up and push files to github.
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Git Commands to set up and push files to a repository
+2. The difference between local and remote repositories
+3. The use of a readme.md file
